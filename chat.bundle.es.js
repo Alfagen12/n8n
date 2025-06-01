@@ -4127,15 +4127,15 @@ const un = {
   chatSessionKey: "sessionId",
   defaultLanguage: "en",
   showWelcomeScreen: !1,
-  initialMessages: ["Hi there! 👋", "My name is Nathan. How can I assist you today?"],
+  initialMessages: ["Привет! 👋", "Меня зовут Оксана, я виртуальный помощник Codanet. Задавайте вопросы, я обязательно помогу!"],
   i18n: {
     en: {
-      title: "Hi there! 👋",
-      subtitle: "Start a chat. We're here to help you 24/7.",
+      title: "Привет! 👋",
+      subtitle: "Давай начнем. Мы здесь 24/7.",
       footer: "",
-      getStarted: "New Conversation",
-      inputPlaceholder: "Type your question..",
-      closeButtonTooltip: "Close chat"
+      getStarted: "Новый разговор",
+      inputPlaceholder: "Введите вопрос",
+      closeButtonTooltip: "Закрыть чат"
     }
   },
   theme: {}
